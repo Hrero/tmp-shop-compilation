@@ -1,7 +1,7 @@
 {
   "apps": [{
     "name": "speedy-mina-server",
-    "script": "server/bin/www",
+    "script": "/server/bin/www",
     "node_args": "--harmony"
   }],
   "deploy": {
